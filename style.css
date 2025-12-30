@@ -16,6 +16,10 @@
   color: #474747;
 }
 
+.text-des{
+    color: #757575;
+}
+
 .btn-primary {
   background-color: #fd6e0a;
   padding: 18px 35px;
@@ -156,3 +160,42 @@ nav ul li a {
 .skill-des {
   font-size: 16px;
 }
+
+
+/* resume related  */
+.resume-container{
+    display: flex;
+    gap: 70px;
+}
+
+.resume-title{
+
+    font-size: 30px;
+    
+}
+
+.colume-title{
+
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.colume-subtitle{
+
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.colume-des{
+
+    font-size: 16px;
+
+}
+
+.resume-btn{
+   text-align: center;
+   margin-top: 50px;
+}
+
